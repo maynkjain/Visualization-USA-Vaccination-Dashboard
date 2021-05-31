@@ -1,0 +1,772 @@
+{
+    "Alaska": [
+     {
+      "type": "PFIZER",
+      "value": 230242
+     },
+     {
+      "type": "MODERNA",
+      "value": 197680
+     },
+     {
+      "type": "J&J",
+      "value": 8702
+     }
+    ],
+    "Alabama": [
+     {
+      "type": "PFIZER",
+      "value": 941578
+     },
+     {
+      "type": "MODERNA",
+      "value": 941846
+     },
+     {
+      "type": "J&J",
+      "value": 51797
+     }
+    ],
+    "Arkansas": [
+     {
+      "type": "PFIZER",
+      "value": 665127
+     },
+     {
+      "type": "MODERNA",
+      "value": 649102
+     },
+     {
+      "type": "J&J",
+      "value": 36700
+     }
+    ],
+    "American Samoa": [
+     {
+      "type": "PFIZER",
+      "value": 26001
+     },
+     {
+      "type": "MODERNA",
+      "value": 6855
+     },
+     {
+      "type": "J&J",
+      "value": 0
+     }
+    ],
+    "Arizona": [
+     {
+      "type": "PFIZER",
+      "value": 2069057
+     },
+     {
+      "type": "MODERNA",
+      "value": 1713308
+     },
+     {
+      "type": "J&J",
+      "value": 70844
+     }
+    ],
+    "California": [
+     {
+      "type": "PFIZER",
+      "value": 10653091
+     },
+     {
+      "type": "MODERNA",
+      "value": 9652663
+     },
+     {
+      "type": "J&J",
+      "value": 558196
+     }
+    ],
+    "Colorado": [
+     {
+      "type": "PFIZER",
+      "value": 1523626
+     },
+     {
+      "type": "MODERNA",
+      "value": 1473927
+     },
+     {
+      "type": "J&J",
+      "value": 80803
+     }
+    ],
+    "Connecticut": [
+     {
+      "type": "PFIZER",
+      "value": 1199575
+     },
+     {
+      "type": "MODERNA",
+      "value": 963527
+     },
+     {
+      "type": "J&J",
+      "value": 63748
+     }
+    ],
+    "District of Columbia": [
+     {
+      "type": "PFIZER",
+      "value": 243338
+     },
+     {
+      "type": "MODERNA",
+      "value": 160387
+     },
+     {
+      "type": "J&J",
+      "value": 9400
+     }
+    ],
+    "Delaware": [
+     {
+      "type": "PFIZER",
+      "value": 292711
+     },
+     {
+      "type": "MODERNA",
+      "value": 220540
+     },
+     {
+      "type": "J&J",
+      "value": 14642
+     }
+    ],
+    "Florida": [
+     {
+      "type": "PFIZER",
+      "value": 5493599
+     },
+     {
+      "type": "MODERNA",
+      "value": 5003546
+     },
+     {
+      "type": "J&J",
+      "value": 293600
+     }
+    ],
+    "Georgia": [
+     {
+      "type": "PFIZER",
+      "value": 2218886
+     },
+     {
+      "type": "MODERNA",
+      "value": 2153955
+     },
+     {
+      "type": "J&J",
+      "value": 90120
+     }
+    ],
+    "Guam": [
+     {
+      "type": "PFIZER",
+      "value": 53252
+     },
+     {
+      "type": "MODERNA",
+      "value": 41576
+     },
+     {
+      "type": "J&J",
+      "value": 657
+     }
+    ],
+    "Hawaii": [
+     {
+      "type": "PFIZER",
+      "value": 397678
+     },
+     {
+      "type": "MODERNA",
+      "value": 279538
+     },
+     {
+      "type": "J&J",
+      "value": 13243
+     }
+    ],
+    "Iowa": [
+     {
+      "type": "PFIZER",
+      "value": 818295
+     },
+     {
+      "type": "MODERNA",
+      "value": 865811
+     },
+     {
+      "type": "J&J",
+      "value": 47952
+     }
+    ],
+    "Idaho": [
+     {
+      "type": "PFIZER",
+      "value": 427958
+     },
+     {
+      "type": "MODERNA",
+      "value": 392824
+     },
+     {
+      "type": "J&J",
+      "value": 20898
+     }
+    ],
+    "Illinois": [
+     {
+      "type": "PFIZER",
+      "value": 3503654
+     },
+     {
+      "type": "MODERNA",
+      "value": 3051842
+     },
+     {
+      "type": "J&J",
+      "value": 166970
+     }
+    ],
+    "Indiana": [
+     {
+      "type": "PFIZER",
+      "value": 1641816
+     },
+     {
+      "type": "MODERNA",
+      "value": 1364141
+     },
+     {
+      "type": "J&J",
+      "value": 89032
+     }
+    ],
+    "Kansas": [
+     {
+      "type": "PFIZER",
+      "value": 724512
+     },
+     {
+      "type": "MODERNA",
+      "value": 736339
+     },
+     {
+      "type": "J&J",
+      "value": 34912
+     }
+    ],
+    "Kentucky": [
+     {
+      "type": "PFIZER",
+      "value": 1205016
+     },
+     {
+      "type": "MODERNA",
+      "value": 1101517
+     },
+     {
+      "type": "J&J",
+      "value": 61833
+     }
+    ],
+    "Louisiana": [
+     {
+      "type": "PFIZER",
+      "value": 1122521
+     },
+     {
+      "type": "MODERNA",
+      "value": 972308
+     },
+     {
+      "type": "J&J",
+      "value": 65257
+     }
+    ],
+    "Massachusetts": [
+     {
+      "type": "PFIZER",
+      "value": 2091195
+     },
+     {
+      "type": "MODERNA",
+      "value": 1966416
+     },
+     {
+      "type": "J&J",
+      "value": 104236
+     }
+    ],
+    "Maryland": [
+     {
+      "type": "PFIZER",
+      "value": 1644186
+     },
+     {
+      "type": "MODERNA",
+      "value": 1496600
+     },
+     {
+      "type": "J&J",
+      "value": 108207
+     }
+    ],
+    "Maine": [
+     {
+      "type": "PFIZER",
+      "value": 395554
+     },
+     {
+      "type": "MODERNA",
+      "value": 376473
+     },
+     {
+      "type": "J&J",
+      "value": 37363
+     }
+    ],
+    "Michigan": [
+     {
+      "type": "PFIZER",
+      "value": 2594150
+     },
+     {
+      "type": "MODERNA",
+      "value": 2298818
+     },
+     {
+      "type": "J&J",
+      "value": 120378
+     }
+    ],
+    "Minnesota": [
+     {
+      "type": "PFIZER",
+      "value": 1611617
+     },
+     {
+      "type": "MODERNA",
+      "value": 1421269
+     },
+     {
+      "type": "J&J",
+      "value": 102123
+     }
+    ],
+    "Missouri": [
+     {
+      "type": "PFIZER",
+      "value": 1631385
+     },
+     {
+      "type": "MODERNA",
+      "value": 1206460
+     },
+     {
+      "type": "J&J",
+      "value": 66125
+     }
+    ],
+    "Northern Mariana Islands": [
+     {
+      "type": "PFIZER",
+      "value": 26708
+     },
+     {
+      "type": "MODERNA",
+      "value": 4002
+     },
+     {
+      "type": "J&J",
+      "value": 34
+     }
+    ],
+    "Mississippi": [
+     {
+      "type": "PFIZER",
+      "value": 602644
+     },
+     {
+      "type": "MODERNA",
+      "value": 630981
+     },
+     {
+      "type": "J&J",
+      "value": 32728
+     }
+    ],
+    "Montana": [
+     {
+      "type": "PFIZER",
+      "value": 276299
+     },
+     {
+      "type": "MODERNA",
+      "value": 294628
+     },
+     {
+      "type": "J&J",
+      "value": 13313
+     }
+    ],
+    "North Carolina": [
+     {
+      "type": "PFIZER",
+      "value": 2815132
+     },
+     {
+      "type": "MODERNA",
+      "value": 2236887
+     },
+     {
+      "type": "J&J",
+      "value": 142880
+     }
+    ],
+    "North Dakota": [
+     {
+      "type": "PFIZER",
+      "value": 234959
+     },
+     {
+      "type": "MODERNA",
+      "value": 207187
+     },
+     {
+      "type": "J&J",
+      "value": 14289
+     }
+    ],
+    "Nebraska": [
+     {
+      "type": "PFIZER",
+      "value": 544638
+     },
+     {
+      "type": "MODERNA",
+      "value": 478162
+     },
+     {
+      "type": "J&J",
+      "value": 30681
+     }
+    ],
+    "New Hampshire": [
+     {
+      "type": "PFIZER",
+      "value": 415822
+     },
+     {
+      "type": "MODERNA",
+      "value": 394415
+     },
+     {
+      "type": "J&J",
+      "value": 19107
+     }
+    ],
+    "New Jersey": [
+     {
+      "type": "PFIZER",
+      "value": 2590390
+     },
+     {
+      "type": "MODERNA",
+      "value": 2365546
+     },
+     {
+      "type": "J&J",
+      "value": 137630
+     }
+    ],
+    "New Mexico": [
+     {
+      "type": "PFIZER",
+      "value": 732512
+     },
+     {
+      "type": "MODERNA",
+      "value": 619961
+     },
+     {
+      "type": "J&J",
+      "value": 29955
+     }
+    ],
+    "Nevada": [
+     {
+      "type": "PFIZER",
+      "value": 813246
+     },
+     {
+      "type": "MODERNA",
+      "value": 652707
+     },
+     {
+      "type": "J&J",
+      "value": 39190
+     }
+    ],
+    "New York": [
+     {
+      "type": "PFIZER",
+      "value": 5702387
+     },
+     {
+      "type": "MODERNA",
+      "value": 4992523
+     },
+     {
+      "type": "J&J",
+      "value": 330353
+     }
+    ],
+    "Ohio": [
+     {
+      "type": "PFIZER",
+      "value": 3073347
+     },
+     {
+      "type": "MODERNA",
+      "value": 2761147
+     },
+     {
+      "type": "J&J",
+      "value": 189025
+     }
+    ],
+    "Oklahoma": [
+     {
+      "type": "PFIZER",
+      "value": 1118669
+     },
+     {
+      "type": "MODERNA",
+      "value": 998690
+     },
+     {
+      "type": "J&J",
+      "value": 46433
+     }
+    ],
+    "Oregon": [
+     {
+      "type": "PFIZER",
+      "value": 1083075
+     },
+     {
+      "type": "MODERNA",
+      "value": 986118
+     },
+     {
+      "type": "J&J",
+      "value": 52988
+     }
+    ],
+    "Pennsylvania": [
+     {
+      "type": "PFIZER",
+      "value": 3578092
+     },
+     {
+      "type": "MODERNA",
+      "value": 3084940
+     },
+     {
+      "type": "J&J",
+      "value": 155938
+     }
+    ],
+    "Puerto Rico": [
+     {
+      "type": "PFIZER",
+      "value": 692219
+     },
+     {
+      "type": "MODERNA",
+      "value": 486828
+     },
+     {
+      "type": "J&J",
+      "value": 26537
+     }
+    ],
+    "Rhode Island": [
+     {
+      "type": "PFIZER",
+      "value": 329217
+     },
+     {
+      "type": "MODERNA",
+      "value": 301839
+     },
+     {
+      "type": "J&J",
+      "value": 17731
+     }
+    ],
+    "South Carolina": [
+     {
+      "type": "PFIZER",
+      "value": 1386776
+     },
+     {
+      "type": "MODERNA",
+      "value": 932160
+     },
+     {
+      "type": "J&J",
+      "value": 61969
+     }
+    ],
+    "South Dakota": [
+     {
+      "type": "PFIZER",
+      "value": 276193
+     },
+     {
+      "type": "MODERNA",
+      "value": 263211
+     },
+     {
+      "type": "J&J",
+      "value": 11017
+     }
+    ],
+    "Tennessee": [
+     {
+      "type": "PFIZER",
+      "value": 1544929
+     },
+     {
+      "type": "MODERNA",
+      "value": 1367228
+     },
+     {
+      "type": "J&J",
+      "value": 73100
+     }
+    ],
+    "Texas": [
+     {
+      "type": "PFIZER",
+      "value": 6980495
+     },
+     {
+      "type": "MODERNA",
+      "value": 6184606
+     },
+     {
+      "type": "J&J",
+      "value": 367640
+     }
+    ],
+    "Utah": [
+     {
+      "type": "PFIZER",
+      "value": 800138
+     },
+     {
+      "type": "MODERNA",
+      "value": 698699
+     },
+     {
+      "type": "J&J",
+      "value": 44753
+     }
+    ],
+    "Virginia": [
+     {
+      "type": "PFIZER",
+      "value": 2447883
+     },
+     {
+      "type": "MODERNA",
+      "value": 2079749
+     },
+     {
+      "type": "J&J",
+      "value": 137562
+     }
+    ],
+    "Vermont": [
+     {
+      "type": "PFIZER",
+      "value": 191523
+     },
+     {
+      "type": "MODERNA",
+      "value": 178323
+     },
+     {
+      "type": "J&J",
+      "value": 9571
+     }
+    ],
+    "Washington": [
+     {
+      "type": "PFIZER",
+      "value": 2159197
+     },
+     {
+      "type": "MODERNA",
+      "value": 1829979
+     },
+     {
+      "type": "J&J",
+      "value": 104381
+     }
+    ],
+    "Wisconsin": [
+     {
+      "type": "PFIZER",
+      "value": 1735630
+     },
+     {
+      "type": "MODERNA",
+      "value": 1466677
+     },
+     {
+      "type": "J&J",
+      "value": 91721
+     }
+    ],
+    "West Virginia": [
+     {
+      "type": "PFIZER",
+      "value": 478561
+     },
+     {
+      "type": "MODERNA",
+      "value": 467402
+     },
+     {
+      "type": "J&J",
+      "value": 13040
+     }
+    ],
+    "Wyoming": [
+     {
+      "type": "PFIZER",
+      "value": 139074
+     },
+     {
+      "type": "MODERNA",
+      "value": 141830
+     },
+     {
+      "type": "J&J",
+      "value": 7544
+     }
+    ]
+   }

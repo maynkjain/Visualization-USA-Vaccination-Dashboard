@@ -1,0 +1,17 @@
+.container-flag{
+    height: calc(var(--map-height) - 40px - 400px);
+    width: calc(calc(var(--pcp-width)/2) - 20px);
+    background-color:var(--purple);
+    position: absolute;
+    margin-top: 40px;
+    border-radius: 35px;
+    box-shadow: var(--shadow-full);
+    top: 0px;
+    right: 40px;
+}
+
+.flag-image{
+    height: 100%;
+    width: 100%;
+    border-radius: 35px;
+}

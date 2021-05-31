@@ -1,0 +1,15 @@
+
+:root {
+    --blue: #6495ed;
+    --bg-white: #F3F4F6;
+    --hightlight-pink: #F3558D;
+    --purple: #574b90;
+    --shadow: #E3E3E3;
+    --purple-light: #C1B8E7;
+    --shadow-full: 0px 11px 20px 0px var(--shadow);
+    --map-height: calc(100vh - 80px - 500px);
+    --map-width: calc(100vw - 80px - 1350px);
+    --line-chart-height: calc(100vh - 120px - var(--map-height));
+    --extra-height: calc(calc(100vh - 120px - var(--map-height))/2 - 20px);
+    --pcp-width: calc(100vw - 120px - var(--map-width));
+}

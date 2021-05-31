@@ -1,0 +1,71 @@
+.container-linechart{
+    height: var(--line-chart-height);
+    width: var(--map-width);
+    background-color: white;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 40px;
+    border-radius: 35px;
+    box-shadow: var(--shadow-full);
+    top: var(--map-height);
+}
+
+.container-linechart .title{
+    font-family: Archia;
+    left: 30px;
+    top: 30px;
+    position: absolute;
+    font-size: 30px;
+    color: var(--purple);
+}
+
+.container-linechart .subtitle{
+    font-family: Archia;
+    left: 30px;
+    top: 65px;
+    position: absolute;
+    font-size: 20px;
+    color: var(--purple-light);
+}
+
+.container-linechart .linechart-svg-container{
+    width: 1090px;
+    height: 350px;
+    background-color:none;
+    position: absolute;
+    top: 80px;
+    left : calc(calc(var(--map-width) - 1090px)/2);
+
+}
+
+.line {
+    fill: none;
+    stroke-width: 2px;
+}
+
+.domain {
+    stroke-width: 1;
+    opacity: 1;
+    width: 1px;
+    stroke: var(--purple-light);
+}
+
+.tick text{
+    font-family: Archia;
+    fill: var(--purple);
+    font-size: 12px;
+}
+
+.tick line{
+    stroke: var(--purple-light);
+}
+
+.linechart-legend {
+    position: absolute;
+    right: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    top:50px;
+}
+

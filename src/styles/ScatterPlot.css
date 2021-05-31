@@ -1,0 +1,66 @@
+.container-scatter{
+    height: calc(var(--map-height) - 40px - 400px);
+    width: calc(calc(var(--pcp-width)/2) - 20px);
+    background-color: white;
+    position: absolute;
+    margin-top: 40px;
+    border-radius: 35px;
+    box-shadow: var(--shadow-full);
+    top: 0px;
+    left: calc(var(--map-width) + 80px)
+}
+
+.container-scatter .title{
+    font-family: Archia;
+    left: 25px;
+    top: 25px;
+    position: absolute;
+    font-size: 25px;
+    color: var(--purple);
+}
+
+/* .container-scatter .subtitle{
+    font-family: Archia;
+    left: 30px;
+    top: 70px;
+    position: absolute;
+    font-size: 20px;
+    color: var(--purple-light);
+} */
+
+.container-scatter .biplot-svg-container{
+    width: 590px;
+    height: 310px;
+    background-color:none;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left : calc(calc(var(--map-width) - 1090px)/2);
+
+}
+
+.radar-circle {
+    fill: none;
+    stroke: var(--purple-light);
+}
+
+.radar-text{
+    fill: var(--purple);
+    font-family: Archia;
+    font-size: 10px;
+}
+
+.radar-axis{
+    stroke: var(--purple)
+}
+
+.radar-label{
+    fill: var(--purple);
+    font-family: Archia;
+    font-size: 12px;
+}
+
+/* .radar-path{
+    stroke-width: 3px;
+    stroke-opacity: 1;
+} */

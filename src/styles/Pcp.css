@@ -1,0 +1,78 @@
+.container-pcp{
+    height: 400px;
+    width: var(--pcp-width);
+    background-color: white;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 80px;
+    border-radius: 35px;
+    box-shadow: var(--shadow-full);
+    bottom: calc(80px + calc(100vh - 120px - var(--map-height)));
+    left: var(--map-width);
+}
+
+.container-pcp .title-holder {
+    width: 300px;
+    height: 100px;
+    background-color: none;
+    text-align: center;
+    transform: rotate(-90deg);
+    top: 145px;
+    position: absolute;
+    left: -80px;
+}
+
+.container-pcp .title-holder .title {
+    font-size: 30px;
+    font-family: Archia;
+    justify-content: center;
+    color: var(--purple);
+}
+
+.container-pcp .pcp-svg-container {
+    height: 400px;
+    position: absolute;
+    width: 1170px;
+    left: 130px;
+    background-color: none;
+}
+
+.background path {
+    fill: none;
+    stroke: none;
+    shape-rendering: crispEdges;
+  }
+  
+  .foreground path {
+    fill: none;
+    stroke: var(--hightlight-pink);
+  }
+  
+  .brush .extent {
+    fill-opacity: .3;
+    stroke: #fff;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis {
+    fill:var(--purple)
+  }
+  .axis line,
+  .axis path {
+    fill: none;
+    stroke: var(--purple-light);
+    shape-rendering: crispEdges;
+  }
+  
+  .axis text {
+    /* text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff; */
+    cursor: move;
+    font-size: 16px;
+    font-family: Archia;
+  }
+
+.axis .tick text{
+    font-family: Archia;
+    fill: var(--purple);
+    font-size: 8px;
+}

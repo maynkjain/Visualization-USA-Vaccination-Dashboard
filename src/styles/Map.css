@@ -1,0 +1,165 @@
+.container-map {
+    height: var(--map-height);
+    width: var(--map-width);
+    background-color: white;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 35px;
+    box-shadow: var(--shadow-full); 
+}
+
+.container-map .title{
+    font-family: Archia;
+    left: 30px;
+    top: 30px;
+    position: absolute;
+    font-size: 40px;
+    color: var(--purple);
+}
+
+.container-map .subtitle{
+    font-family: Archia;
+    left: 30px;
+    top: 80px;
+    position: absolute;
+    font-size: 20px;
+    color: var(--purple-light);
+}
+
+.container-map .map-svg-container{
+    width: 1050px;
+    height: 570px;
+    background-color:none;
+    position: absolute;
+    top: 140px;
+    left : calc(calc(var(--map-width) - 1050px)/2);
+
+}
+
+.states {
+    fill: none;
+    stroke: #fff;
+    stroke-linejoin: round;
+}
+  
+.states-choropleth {
+    fill: #ccc;
+}
+
+.tooltip_key {
+    font-weight: bold;
+}
+  
+.tooltip_value {
+    margin-left: 20px;
+    float: right;
+}
+
+.hover-container {
+    height: 65px;
+    width: 150px;
+    border-radius: 8px;
+    background-color: white;
+    border-color: var(--purple);
+    border-style: solid;
+    border-width: 1px;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 6px;
+    /* box-shadow: var(--shadow-full); */
+}
+
+.highlight-count {
+    font-family: Archia;
+    font-size: 25px;
+    color: var(--purple);
+    /* position: absolute;
+    top: 10px;
+    left: 10px; */
+}
+
+.highlight-state-container {
+    background-color: none;
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.highlight-state {
+    font-family: Archia;
+    font-size: 15px;
+    color: var(--purple);
+}
+
+.highlight-state-code {
+    font-size: 10px;
+    font-family: Archia;
+    color: white;
+}
+
+.vaccine-button {
+    height: 40px;
+    width: 120px;
+    position: absolute;
+    bottom : 20px;
+    background-color: none;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: var(--purple);
+    border-right-width: 1px;
+    background-color: var(--purple);
+    left: calc(calc(var(--map-width) - 241px)/2);
+    cursor: default;
+}
+
+.vaccine-button text{
+    font-size: 20px;
+    font-family: Archia;
+    position: absolute;
+    left: 20px;
+    top: 7px;
+    color: white;
+}
+
+.party-button {
+    height: 40px;
+    width: 120px;
+    position: absolute;
+    bottom : 20px;
+    background-color: none;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-style: solid;
+    border-color: var(--purple);
+    border-width: 2px;
+    border-left-width: 1px;
+    left: calc(calc(calc(var(--map-width) - 241px)/2) + 121px);
+    cursor: default;
+}
+
+.party-button text{
+    font-size: 20px;
+    font-family: Archia;
+    position: absolute;
+    left: 30px;
+    top: 7px;
+    color: var(--purple)
+}
